@@ -23,6 +23,10 @@
 # Steps
   Add here any insights you had during the project
 
+# References
+  Data Tools (3 datasets used for the project):
+  https://github.com/data-bootcamp-v4/lessons/tree/main/5_6_eda_inf_stats_tableau/project/files_for_project
+
 # Conclusion
   Final conclusion
   
