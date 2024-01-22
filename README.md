@@ -2,15 +2,15 @@
 
 # Project objective
 
-** Contex and Challenge: ** 
+**Contex and Challenge:** 
 The digital world is evolving, and so are Vanguard’s clients. Vanguard believed that a more intuitive and modern User Interface (UI), coupled with timely in-context prompts (cues, messages, hints, or instructions provided to users directly within the context of their current task or action), could make the online process smoother for clients.The critical question was: 
 
-** Would these changes encourage more clients to complete the process? **
+**Would these changes encourage more clients to complete the process?**
  
 # Methods
 1. An A/B test was set:
-  - ** Control Group **: Clients interacted with Vanguard’s traditional online process.
-  - ** Test Group **: Clients experienced the new, spruced-up digital interface.
+  - **Control Group**: Clients interacted with Vanguard’s traditional online process.
+  - **Test Group**: Clients experienced the new, spruced-up digital interface.
 2. Perfomance Metrics 
 3. Hypothesis Testing
  
