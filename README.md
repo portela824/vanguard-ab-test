@@ -9,8 +9,8 @@ The digital world is evolving, and so are Vanguard’s clients. Vanguard believe
  
 # Methods
 1. An A/B test was set:
-  ** Control Group **: Clients interacted with Vanguard’s traditional online process.
-  ** Test Group **: Clients experienced the new, spruced-up digital interface.
+  - ** Control Group **: Clients interacted with Vanguard’s traditional online process.
+  - ** Test Group **: Clients experienced the new, spruced-up digital interface.
 2. Perfomance Metrics 
 3. Hypothesis Testing
  
